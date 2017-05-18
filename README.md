@@ -1,18 +1,3 @@
-<img src="assets/readme/introduction.png" width="880" height="400">
-
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/binzailani3136/ReChat/blob/master/LICENSE)
-
----------------
-
-# [Screenshots](#screenshots)
-
-|  iOS    | Android    |
-| :-------: | :----: |
-|  ![ios Screenshots](assets/readme/ios_login.png)  | ![android Screenshots](assets/readme/android_login.png) |
-
-<br />
-
----------------
 
 # Why I start this project?
 Nowadays, there are many React Native starter projects, seed projects and template projects are published on GitHub.
