@@ -64,7 +64,10 @@ I am really open minded and I would like to hear about other developers suggesti
 * Discover friends.
 * My profile management.
 * UI design improvements.
-
+###How to run this project
+* npm install
+* react-native run-android
+* react-native run-ios
 ## FAQ
 ### Can you change the app design and flow depend on the suggestions?
 Yes. Nice ideas and suggestions are very welcomed and I have the will to change my current design depend on other developers suggestions. Suggest me nice ideas!
