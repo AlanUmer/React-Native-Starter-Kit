@@ -64,7 +64,8 @@ I am really open minded and I would like to hear about other developers suggesti
 * Discover friends.
 * My profile management.
 * UI design improvements.
-###How to run this project
+
+## HOW TO RUN
 * npm install
 * react-native run-android
 * react-native run-ios
